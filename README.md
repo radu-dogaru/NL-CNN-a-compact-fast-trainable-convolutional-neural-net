@@ -1,7 +1,8 @@
 # NL-CNN A compact and fast trainable convolutional neural net
 A fast yet light convolutional neural network model suitable for small/medium input image sizes (up to 64x64)
 
-Code is avalailable as the notebook nl_cnn_demos.ipynb it includes the function defining the NL-CNN Keras/Tensorflow model 
+Code is avalailable as the notebook nl_cnn_demos.ipynb 
+Tt includes the function defining the NL-CNN Keras/Tensorflow model and some relevant trainied models for a diversity of datasets: MNIST, EMNIST, Fashion-MNIST, FER-2013, SVHH, GTRSB
 
 A novel compact yet accurate convolution neural model is proposed. Particularly for small or medium image sizes (up to 128x128), NL-CNN provides a simple and efficient solution, with relatively fast training allowing a fine optimization of the hyper-parameters. Accuracies are in the range of values obtained with state-of-the art solutions and in some cases larger than what is reported so far. Our model compares favorably to well established resources-constrained  models with faster training (around 3 times) better test accuracy and up to 10 times less complexity (measured as memory occupied by the .h5 model file).   
 Relevant features of the proposed architecture: 
