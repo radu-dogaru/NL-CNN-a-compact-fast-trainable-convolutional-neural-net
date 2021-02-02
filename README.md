@@ -20,3 +20,4 @@ iv) The code can run and was tested in Google COLAB
 If you find this code useful please cite the following work:
 
 Radu Dogaru, Ioana Dogaru, "NL-CNN: A Resources-Constrained Deep Learning Model based on Nonlinear Convolution", submitted to IEEE ATEE-2021 conference, 2021 
+Reprint here: https://arxiv.org/ftp/arxiv/papers/2102/2102.00227.pdf
