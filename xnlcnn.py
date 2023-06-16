@@ -1,4 +1,4 @@
-Celula definire model 
+
 
 # xNL_CNN MODEL 
 # Returns a precompiled model with a specific optimizer included 
