@@ -24,3 +24,5 @@ Reprint here: https://arxiv.org/ftp/arxiv/papers/2102/2102.00227.pdf
 
 **NEW (June, 2023) The XNL-CNN model** is added (for larger image sizes). Code here: https://github.com/radu-dogaru/NL-CNN-a-compact-fast-trainable-convolutional-neural-net/blob/main/xnlcnn.py  
 Details in an article to be published soon 
+
+**New (June, 2023) for actual developments similar to NL-CNN a more versatile V-CNN is available here: https://github.com/radu-dogaru/V-CNN; Details in an article to be published soon 
