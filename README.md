@@ -23,6 +23,6 @@ Radu Dogaru, Ioana Dogaru, "NL-CNN: A Resources-Constrained Deep Learning Model 
 Reprint here: https://arxiv.org/ftp/arxiv/papers/2102/2102.00227.pdf
 
 **NEW (June, 2023) The XNL-CNN model** is added (for larger image sizes). Code here: https://github.com/radu-dogaru/NL-CNN-a-compact-fast-trainable-convolutional-neural-net/blob/main/xnlcnn.py  
-Details in this article (https://ieeexplore.ieee.org/document/10310596) a draft is available here:  
+Details in this article (https://ieeexplore.ieee.org/document/10310596) a draft is available here: https://github.com/radu-dogaru/NL-CNN-a-compact-fast-trainable-convolutional-neural-net/blob/main/xnl-cnn-iseee2023.pdf 
 
 **New (June 24, 2023)** for actual developments similar to NL-CNN a **more versatile V-CNN** is available here: https://github.com/radu-dogaru/V-CNN; Details in https://ieeexplore.ieee.org/document/10310339 
